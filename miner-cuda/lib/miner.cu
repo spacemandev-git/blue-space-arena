@@ -21,7 +21,7 @@ namespace kernel
 {
 
 static const uint32_t BIT_SIZE = 256;
-static const uint32_t C_SIZE = 219;
+static const uint32_t C_SIZE = 4;
 
 typedef cgbn_mem_t<BIT_SIZE> bn_mem_t;
 
